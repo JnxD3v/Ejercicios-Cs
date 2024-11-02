@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\bin\Debug\net8.0\27GAMALIER.exe
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\bin\Debug\net8.0\27GAMALIER.deps.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\bin\Debug\net8.0\27GAMALIER.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\bin\Debug\net8.0\27GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\bin\Debug\net8.0\27GAMALIER.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\27GAMALIER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\27GAMALIER.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\27GAMALIER.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\27GAMALIER.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\27GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\refint\27GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\27GAMALIER.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\27GAMALIER.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\27GAMALIER\obj\Debug\net8.0\ref\27GAMALIER.dll

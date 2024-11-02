@@ -1,0 +1,28 @@
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\bin\Debug\net8.0\29GAMALIER.exe
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\bin\Debug\net8.0\29GAMALIER.deps.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\bin\Debug\net8.0\29GAMALIER.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\bin\Debug\net8.0\29GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\bin\Debug\net8.0\29GAMALIER.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\29GAMALIER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\29GAMALIER.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\29GAMALIER.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\29GAMALIER.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\29GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\refint\29GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\29GAMALIER.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\29GAMALIER.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\29GAMALIER\obj\Debug\net8.0\ref\29GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\bin\Debug\net8.0\29GAMALIER.exe
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\bin\Debug\net8.0\29GAMALIER.deps.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\bin\Debug\net8.0\29GAMALIER.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\bin\Debug\net8.0\29GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\bin\Debug\net8.0\29GAMALIER.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\29GAMALIER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\29GAMALIER.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\29GAMALIER.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\29GAMALIER.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\29GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\refint\29GAMALIER.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\29GAMALIER.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\29GAMALIER.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\For, Foreach, do while, while\29GAMALIER\obj\Debug\net8.0\ref\29GAMALIER.dll
