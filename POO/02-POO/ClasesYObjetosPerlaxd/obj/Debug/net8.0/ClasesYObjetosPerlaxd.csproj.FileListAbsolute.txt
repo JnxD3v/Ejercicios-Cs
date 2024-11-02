@@ -1,0 +1,28 @@
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.exe
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.deps.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\refint\ClasesYObjetosPerlaxd.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ref\ClasesYObjetosPerlaxd.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.exe
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.deps.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\bin\Debug\net8.0\ClasesYObjetosPerlaxd.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\refint\ClasesYObjetosPerlaxd.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ClasesYObjetosPerlaxd.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Clases Y obejto\ClasesYObjetosPerlaxd\obj\Debug\net8.0\ref\ClasesYObjetosPerlaxd.dll

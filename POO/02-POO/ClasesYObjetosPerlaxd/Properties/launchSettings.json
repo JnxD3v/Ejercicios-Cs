@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ClasesYObjetosPerlaxd": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
