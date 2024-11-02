@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "gamalier8": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

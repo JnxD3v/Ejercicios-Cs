@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\Desktop\c#\gama13\bin\Debug\net8.0\gama13.exe
+C:\Users\JUNIOR\Desktop\c#\gama13\bin\Debug\net8.0\gama13.deps.json
+C:\Users\JUNIOR\Desktop\c#\gama13\bin\Debug\net8.0\gama13.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\gama13\bin\Debug\net8.0\gama13.dll
+C:\Users\JUNIOR\Desktop\c#\gama13\bin\Debug\net8.0\gama13.pdb
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\gama13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\gama13.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\gama13.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\gama13.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\gama13.dll
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\refint\gama13.dll
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\gama13.pdb
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\gama13.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\gama13\obj\Debug\net8.0\ref\gama13.dll

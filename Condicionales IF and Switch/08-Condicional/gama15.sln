@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gama15", "gama15.csproj", "{6C58BB20-F078-4E04-8DB7-9E3288E1922A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C58BB20-F078-4E04-8DB7-9E3288E1922A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C58BB20-F078-4E04-8DB7-9E3288E1922A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C58BB20-F078-4E04-8DB7-9E3288E1922A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C58BB20-F078-4E04-8DB7-9E3288E1922A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F1A522D-259E-43BA-B5C6-A6F845F65E26}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\bin\Debug\net8.0\GAMALIER9.exe
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\bin\Debug\net8.0\GAMALIER9.deps.json
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\bin\Debug\net8.0\GAMALIER9.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\bin\Debug\net8.0\GAMALIER9.dll
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\bin\Debug\net8.0\GAMALIER9.pdb
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\GAMALIER9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\GAMALIER9.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\GAMALIER9.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\GAMALIER9.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\GAMALIER9.dll
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\refint\GAMALIER9.dll
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\GAMALIER9.pdb
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\GAMALIER9.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\GAMALIER9\obj\Debug\net8.0\ref\GAMALIER9.dll

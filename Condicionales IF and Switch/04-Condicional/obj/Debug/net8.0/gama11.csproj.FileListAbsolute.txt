@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\source\repos\gama11\bin\Debug\net8.0\gama11.exe
+C:\Users\JUNIOR\source\repos\gama11\bin\Debug\net8.0\gama11.deps.json
+C:\Users\JUNIOR\source\repos\gama11\bin\Debug\net8.0\gama11.runtimeconfig.json
+C:\Users\JUNIOR\source\repos\gama11\bin\Debug\net8.0\gama11.dll
+C:\Users\JUNIOR\source\repos\gama11\bin\Debug\net8.0\gama11.pdb
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\gama11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\gama11.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\gama11.AssemblyInfo.cs
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\gama11.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\gama11.dll
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\refint\gama11.dll
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\gama11.pdb
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\gama11.genruntimeconfig.cache
+C:\Users\JUNIOR\source\repos\gama11\obj\Debug\net8.0\ref\gama11.dll

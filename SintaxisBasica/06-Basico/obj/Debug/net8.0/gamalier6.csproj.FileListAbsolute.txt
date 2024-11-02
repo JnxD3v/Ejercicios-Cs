@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\source\repos\gamalier6\bin\Debug\net8.0\gamalier6.exe
+C:\Users\JUNIOR\source\repos\gamalier6\bin\Debug\net8.0\gamalier6.deps.json
+C:\Users\JUNIOR\source\repos\gamalier6\bin\Debug\net8.0\gamalier6.runtimeconfig.json
+C:\Users\JUNIOR\source\repos\gamalier6\bin\Debug\net8.0\gamalier6.dll
+C:\Users\JUNIOR\source\repos\gamalier6\bin\Debug\net8.0\gamalier6.pdb
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\gamalier6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\gamalier6.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\gamalier6.AssemblyInfo.cs
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\gamalier6.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\gamalier6.dll
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\refint\gamalier6.dll
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\gamalier6.pdb
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\gamalier6.genruntimeconfig.cache
+C:\Users\JUNIOR\source\repos\gamalier6\obj\Debug\net8.0\ref\gamalier6.dll

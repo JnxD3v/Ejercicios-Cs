@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\gamalier2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\gamalier2.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\gamalier2.AssemblyInfo.cs
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\gamalier2.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\source\repos\gamalier2\bin\Debug\net8.0\gamalier2.exe
+C:\Users\JUNIOR\source\repos\gamalier2\bin\Debug\net8.0\gamalier2.deps.json
+C:\Users\JUNIOR\source\repos\gamalier2\bin\Debug\net8.0\gamalier2.runtimeconfig.json
+C:\Users\JUNIOR\source\repos\gamalier2\bin\Debug\net8.0\gamalier2.dll
+C:\Users\JUNIOR\source\repos\gamalier2\bin\Debug\net8.0\gamalier2.pdb
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\gamalier2.dll
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\refint\gamalier2.dll
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\gamalier2.pdb
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\gamalier2.genruntimeconfig.cache
+C:\Users\JUNIOR\source\repos\gamalier2\obj\Debug\net8.0\ref\gamalier2.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zepzXMDZXGU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JUNIOR\\Desktop\\c#\\ejerciociosGamalier\\Metodos\\01-Metodos\\01-Metodos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JUNIOR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json."
+    }
+  ]
+}

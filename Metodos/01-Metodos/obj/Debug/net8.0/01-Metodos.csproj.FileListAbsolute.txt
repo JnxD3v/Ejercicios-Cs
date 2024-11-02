@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\bin\Debug\net8.0\01-Metodos.exe
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\bin\Debug\net8.0\01-Metodos.deps.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\bin\Debug\net8.0\01-Metodos.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\bin\Debug\net8.0\01-Metodos.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\bin\Debug\net8.0\01-Metodos.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\01-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\01-Metodos.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\01-Metodos.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\01-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\01-Metodos.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\refint\01-Metodos.dll
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\01-Metodos.pdb
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\01-Metodos.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\ejerciociosGamalier\Metodos\01-Metodos\obj\Debug\net8.0\ref\01-Metodos.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yd7D+zANrNc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JUNIOR\\source\\repos\\gama10\\gama10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JUNIOR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

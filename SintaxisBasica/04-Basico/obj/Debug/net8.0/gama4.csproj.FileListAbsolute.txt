@@ -1,0 +1,14 @@
+C:\Users\JUNIOR\Desktop\c#\gama4\bin\Debug\net8.0\gama4.exe
+C:\Users\JUNIOR\Desktop\c#\gama4\bin\Debug\net8.0\gama4.deps.json
+C:\Users\JUNIOR\Desktop\c#\gama4\bin\Debug\net8.0\gama4.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\gama4\bin\Debug\net8.0\gama4.dll
+C:\Users\JUNIOR\Desktop\c#\gama4\bin\Debug\net8.0\gama4.pdb
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\gama4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\gama4.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\gama4.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\gama4.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\gama4.dll
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\refint\gama4.dll
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\gama4.pdb
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\gama4.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\gama4\obj\Debug\net8.0\ref\gama4.dll
