@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "pruebaTecnica_01-JesusJuniorRod": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

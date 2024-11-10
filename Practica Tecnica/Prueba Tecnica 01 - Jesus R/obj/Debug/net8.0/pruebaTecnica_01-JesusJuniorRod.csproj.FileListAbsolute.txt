@@ -1,0 +1,30 @@
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.exe
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.deps.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.pdb
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.sourcelink.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\refint\pruebaTecnica_01-JesusJuniorRod.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.pdb
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\pruebaTecnica_01-JesusJuniorRod\obj\Debug\net8.0\ref\pruebaTecnica_01-JesusJuniorRod.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.exe
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.deps.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\bin\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.pdb
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.sourcelink.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\refint\pruebaTecnica_01-JesusJuniorRod.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.pdb
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\pruebaTecnica_01-JesusJuniorRod.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\Prueba Tecnica 01 - Jesus R\obj\Debug\net8.0\ref\pruebaTecnica_01-JesusJuniorRod.dll
