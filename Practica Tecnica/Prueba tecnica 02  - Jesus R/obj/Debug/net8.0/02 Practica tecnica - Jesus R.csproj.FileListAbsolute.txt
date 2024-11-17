@@ -1,0 +1,15 @@
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\02 Practica tecnica - Jesus R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\02 Practica tecnica - Jesus R.AssemblyInfoInputs.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\02 Practica tecnica - Jesus R.AssemblyInfo.cs
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\02 Practica tecnica - Jesus R.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\02 Practica tecnica - Jesus R.sourcelink.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\bin\Debug\net8.0\02 Practica tecnica - Jesus R.exe
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\bin\Debug\net8.0\02 Practica tecnica - Jesus R.deps.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\bin\Debug\net8.0\02 Practica tecnica - Jesus R.runtimeconfig.json
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\bin\Debug\net8.0\02 Practica tecnica - Jesus R.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\bin\Debug\net8.0\02 Practica tecnica - Jesus R.pdb
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\02 Practica tecnica - Jesus R.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\refint\02 Practica tecnica - Jesus R.dll
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\02 Practica tecnica - Jesus R.pdb
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\02 Practica tecnica - Jesus R.genruntimeconfig.cache
+C:\Users\JUNIOR\Desktop\c#\EjerciciosGamalier\Practica Tecnica\02 Practica tecnica - Jesus R\obj\Debug\net8.0\ref\02 Practica tecnica - Jesus R.dll
