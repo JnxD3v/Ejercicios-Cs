@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rUujzPpMEUA=",
+  "dgSpecHash": "j5NjW6gdBfQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Practica Tecnica\\02 Practica tecnica - Jesus R\\02 Practica tecnica - Jesus R.csproj",
+  "projectFilePath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Practica Tecnica\\Prueba tecnica 02  - Jesus R\\02 Practica tecnica - Jesus R.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JUNIOR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],

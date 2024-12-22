@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gama17")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da650d29727bf0491938753315c276fc793ae232")]
 [assembly: System.Reflection.AssemblyProductAttribute("gama17")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gama17")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

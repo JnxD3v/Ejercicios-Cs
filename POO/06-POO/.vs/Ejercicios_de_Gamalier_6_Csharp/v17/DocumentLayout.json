@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Perla y Gamalier (POO)\\Ejercicios_de_Gamalier_6_Csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\POO\\06-POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D16CF56-3BD5-4C3C-AE0B-0DE9364359ED}|Ejercicios_de_Gamalier_6_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de perla y gamalier (poo)\\ejercicios_de_gamalier_6_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D16CF56-3BD5-4C3C-AE0B-0DE9364359ED}|Ejercicios_de_Gamalier_6_Csharp.csproj|c:\\users\\junior\\desktop\\c#\\ejerciciosgamalier\\poo\\06-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D16CF56-3BD5-4C3C-AE0B-0DE9364359ED}|Ejercicios_de_Gamalier_6_Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,25 +22,21 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Perla y Gamalier (POO)\\Ejercicios_de_Gamalier_6_Csharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\POO\\06-POO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Perla y Gamalier (POO)\\Ejercicios_de_Gamalier_6_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\POO\\06-POO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANAAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T13:47:17.964Z",
               "EditorCaption": ""

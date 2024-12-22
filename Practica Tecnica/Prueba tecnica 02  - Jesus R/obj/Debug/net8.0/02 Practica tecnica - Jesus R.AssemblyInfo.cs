@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02 Practica tecnica - Jesus R")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d514483de26d0ba06ae4b89154fcaf54204541d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da650d29727bf0491938753315c276fc793ae232")]
 [assembly: System.Reflection.AssemblyProductAttribute("02 Practica tecnica - Jesus R")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02 Practica tecnica - Jesus R")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

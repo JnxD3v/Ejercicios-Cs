@@ -6,13 +6,14 @@ namespace gama17
     {
         static void Main(string[] args)
         {
-            double isr, sueldoBruto, afp, sfs, sueldoNeto, sueldoAnual;
+            double isr, sueldoBruto, afp, sfs, sueldoNeto, sueldoAnual, isrMensual;
 
-            Console.WriteLine("INSERTA EL SUELDO BRUTO DEL EMPLEADO");
+            Console.Write("INSERTA EL SUELDO BRUTO DEL EMPLEADO: ");
             sueldoBruto = double.Parse(Console.ReadLine());
 
             afp = sueldoBruto * 0.0287;
             sfs = sueldoBruto * 0.0304;
+
             sueldoNeto = sueldoBruto - sfs - afp;
 
             sueldoAnual = sueldoNeto * 12;
@@ -27,7 +28,7 @@ namespace gama17
                 isr = (31216 + (sueldoAnual - 416220)) * 0.20;
             }
 
-            else if (sueldoAnual > 867123)
+            else if (sueldoAnual > 867123.01)
             {
                 isr = (79776 + (sueldoAnual - 416220)) * 0.25;
             }
@@ -43,6 +44,7 @@ namespace gama17
             Console.WriteLine("el sueldo neto es de"+ " " + sueldoNeto);
             Console.WriteLine("el sueldo neto anual es de" + " " + sueldoAnual);
             Console.WriteLine("el descuento total de isr sera de" + " " + isr);
+            Console.WriteLine("El isr mensual es de " + (isrMensual = isr /12));
         }
 
 

@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GlonqpXNI84=",
+  "dgSpecHash": "zkWxMmPz4JQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JUNIOR\\Desktop\\c#\\ejerciociosGamalier\\For, Foreach, do while, while\\29GAMALIER\\29GAMALIER.csproj",
+  "projectFilePath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\For, Foreach, do while, while\\09-Bucles\\29GAMALIER.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JUNIOR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://api.nuget.org/v3/index.json."
-    }
-  ]
+  "logs": []
 }

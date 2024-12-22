@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Practica Tecnica\\02 Practica tecnica - Jesus R\\",
+  "WorkspaceRootPath": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Practica Tecnica\\Prueba tecnica 02  - Jesus R\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{576EFECE-F80F-4BE2-BC1A-515C0225B221}|02 Practica tecnica - Jesus R.csproj|c:\\users\\junior\\desktop\\c#\\ejerciciosgamalier\\practica tecnica\\02 practica tecnica - jesus r\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{576EFECE-F80F-4BE2-BC1A-515C0225B221}|02 Practica tecnica - Jesus R.csproj|c:\\users\\junior\\desktop\\c#\\ejerciciosgamalier\\practica tecnica\\prueba tecnica 02  - jesus r\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{576EFECE-F80F-4BE2-BC1A-515C0225B221}|02 Practica tecnica - Jesus R.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -28,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Practica Tecnica\\02 Practica tecnica - Jesus R\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Practica Tecnica\\Prueba tecnica 02  - Jesus R\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Practica Tecnica\\02 Practica tecnica - Jesus R\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEIAAABAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\JUNIOR\\Desktop\\c#\\EjerciciosGamalier\\Practica Tecnica\\Prueba tecnica 02  - Jesus R\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwEIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T14:17:57.135Z",
               "EditorCaption": ""
